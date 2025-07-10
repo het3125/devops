@@ -2,10 +2,10 @@
 
 vid main()
 {
-    int a,b,c;
+    int d,b,c;
 
       printf("enter value of a:");
-      scanf("%d",&a);
+      scanf("%d",&d);
       printf("enter value of b:");
       scanf("%d",&b);
       c=a+b;
